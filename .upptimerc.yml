@@ -6,6 +6,22 @@ sites:
     url: https://ccm.sickkids.ca
   - name: EpigenCentral
     url: https://epigen.ccm.sickkids.ca
+  - name: Jira
+    url: https://jira.ccm.sickkids.ca/status
+  - name: Keycloak
+    url: https://sso.ccm.sickkids.ca
+  - name: MinIO (primary)
+    url: https://minio.ccm.sickkids.ca/minio/health/live
+  - name: MinIO (Hiraki lab)
+    url: https://minio-hiraki.ccm.sickkids.ca/minio/health/live
+  - name: MinIO (Muise lab)
+    url: https://minio-muise.ccm.sickkids.ca/minio/health/live
+  - name: Stager (frontend)
+    url: https://stager.ccm.sickkids.ca
+  - name: Stager (Hiraki backend)
+    url: https://stager-hiraki.ccm.sickkids.ca/api
+  - name: Stager (Muise backend)
+    url: https://stager-muise.ccm.sickkids.ca/api
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
