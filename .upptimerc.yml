@@ -26,8 +26,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.ccm.sickkids.ca
-  baseUrl: /status
+  cname: status.ccm.sickkids.ca
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/ccmbioinfo/.github/master/profile/logo.png
   name: SickKids CCM web application status
   theme: night
