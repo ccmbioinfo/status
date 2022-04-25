@@ -58,19 +58,19 @@
     "url": "https://sso.ccm.sickkids.ca",
     "icon": "https://favicons.githubusercontent.com/sso.ccm.sickkids.ca",
     "slug": "keycloak",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 237,
-    "timeWeek": 285,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "85.80%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 328,
+    "timeDay": 247,
+    "timeWeek": 281,
+    "timeMonth": 328,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-04-25": 0
+      "2022-04-25": 204
     }
   },
   {
