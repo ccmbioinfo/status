@@ -58,7 +58,7 @@
     "url": "https://sso.ccm.sickkids.ca",
     "icon": "https://favicons.githubusercontent.com/sso.ccm.sickkids.ca",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 285,
     "timeMonth": 331,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-25": 0
+    }
   },
   {
     "name": "MinIO (primary)",
