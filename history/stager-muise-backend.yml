@@ -1,7 +1,7 @@
 url: https://stager-muise.ccm.sickkids.ca/api
-status: down
-code: 404
-responseTime: 264
-lastUpdated: 2022-05-13T21:39:38.659Z
+status: up
+code: 200
+responseTime: 436
+lastUpdated: 2022-05-13T21:51:56.958Z
 startTime: Mon Apr 04 2022 20:55:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
