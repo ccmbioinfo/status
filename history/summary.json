@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/sso.ccm.sickkids.ca",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 320,
     "timeDay": 274,
     "timeWeek": 253,
@@ -132,9 +132,9 @@
     "url": "https://stager.ccm.sickkids.ca",
     "icon": "https://favicons.githubusercontent.com/stager.ccm.sickkids.ca",
     "slug": "stager-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,42 +143,48 @@
     "timeWeek": 175,
     "timeMonth": 223,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   },
   {
     "name": "Stager (Hiraki backend)",
     "url": "https://stager-hiraki.ccm.sickkids.ca/api",
     "icon": "https://favicons.githubusercontent.com/stager-hiraki.ccm.sickkids.ca",
     "slug": "stager-hiraki-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 134,
-    "timeWeek": 200,
-    "timeMonth": 229,
-    "timeYear": 222,
-    "dailyMinutesDown": {}
+    "time": 223,
+    "timeDay": 202,
+    "timeWeek": 208,
+    "timeMonth": 230,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   },
   {
     "name": "Stager (Muise backend)",
     "url": "https://stager-muise.ccm.sickkids.ca/api",
     "icon": "https://favicons.githubusercontent.com/stager-muise.ccm.sickkids.ca",
     "slug": "stager-muise-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 159,
-    "timeWeek": 157,
-    "timeMonth": 197,
-    "timeYear": 191,
-    "dailyMinutesDown": {}
+    "time": 193,
+    "timeDay": 212,
+    "timeWeek": 170,
+    "timeMonth": 199,
+    "timeYear": 193,
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   }
 ]
