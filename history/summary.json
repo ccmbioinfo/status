@@ -78,19 +78,19 @@
     "url": "https://minio.ccm.sickkids.ca/minio/health/live",
     "icon": "https://favicons.githubusercontent.com/minio.ccm.sickkids.ca",
     "slug": "min-io-primary",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 1543,
-    "timeWeek": 560,
-    "timeMonth": 299,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "67.79%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.41%",
+    "time": 265,
+    "timeDay": 1417,
+    "timeWeek": 627,
+    "timeMonth": 326,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-05-29": 0
+      "2022-05-29": 464
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://stager.ccm.sickkids.ca",
     "icon": "https://favicons.githubusercontent.com/stager.ccm.sickkids.ca",
     "slug": "stager-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 1937,
-    "timeWeek": 737,
-    "timeMonth": 358,
-    "timeYear": 287,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "67.80%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.41%",
+    "time": 293,
+    "timeDay": 1511,
+    "timeWeek": 728,
+    "timeMonth": 367,
+    "timeYear": 293,
     "dailyMinutesDown": {
-      "2022-05-29": 0
+      "2022-05-29": 464
     }
   },
   {
