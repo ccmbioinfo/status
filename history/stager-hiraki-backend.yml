@@ -1,7 +1,7 @@
 url: https://stager-hiraki.ccm.sickkids.ca/api
-status: down
-code: 404
-responseTime: 112
-lastUpdated: 2022-06-07T14:39:49.914Z
+status: up
+code: 200
+responseTime: 264
+lastUpdated: 2022-06-07T14:52:18.397Z
 startTime: Mon Apr 04 2022 20:55:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
