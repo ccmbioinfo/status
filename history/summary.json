@@ -154,19 +154,19 @@
     "url": "https://stager-hiraki.ccm.sickkids.ca/api",
     "icon": "https://favicons.githubusercontent.com/stager-hiraki.ccm.sickkids.ca",
     "slug": "stager-hiraki-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 259,
-    "timeWeek": 229,
-    "timeMonth": 231,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 228,
+    "timeDay": 260,
+    "timeWeek": 233,
+    "timeMonth": 232,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2022-06-07": 0
+      "2022-06-07": 12
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "https://stager-muise.ccm.sickkids.ca/api",
     "icon": "https://favicons.githubusercontent.com/stager-muise.ccm.sickkids.ca",
     "slug": "stager-muise-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 203,
-    "timeWeek": 219,
-    "timeMonth": 222,
-    "timeYear": 209,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 213,
+    "timeDay": 296,
+    "timeWeek": 248,
+    "timeMonth": 229,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-06-07": 0
+      "2022-06-07": 13
     }
   }
 ]
