@@ -172,19 +172,19 @@
     "url": "https://stager-muise.ccm.sickkids.ca/api",
     "icon": "https://favicons.githubusercontent.com/stager-muise.ccm.sickkids.ca",
     "slug": "stager-muise-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 304,
-    "timeWeek": 272,
-    "timeMonth": 231,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 217,
+    "timeDay": 300,
+    "timeWeek": 273,
+    "timeMonth": 233,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-06-08": 0
+      "2022-06-08": 25
     }
   }
 ]
