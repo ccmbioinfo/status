@@ -4,46 +4,50 @@
     "url": "https://ccm.sickkids.ca",
     "icon": "https://favicons.githubusercontent.com/ccm.sickkids.ca",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 525,
     "timeDay": 566,
     "timeWeek": 533,
     "timeMonth": 578,
     "timeYear": 525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 3
+    }
   },
   {
     "name": "EpigenCentral",
     "url": "https://epigen.ccm.sickkids.ca",
     "icon": "https://favicons.githubusercontent.com/epigen.ccm.sickkids.ca",
     "slug": "epigen-central",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 320,
     "timeDay": 380,
     "timeWeek": 302,
     "timeMonth": 399,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 2
+    }
   },
   {
     "name": "Jira",
     "url": "https://jira.ccm.sickkids.ca/status",
     "icon": "https://favicons.githubusercontent.com/jira.ccm.sickkids.ca",
     "slug": "jira",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
@@ -51,17 +55,19 @@
     "timeWeek": 287,
     "timeMonth": 266,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-19": 2
+    }
   },
   {
     "name": "Keycloak",
     "url": "https://sso.ccm.sickkids.ca",
     "icon": "https://favicons.githubusercontent.com/sso.ccm.sickkids.ca",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 348,
@@ -70,6 +76,7 @@
     "timeMonth": 381,
     "timeYear": 348,
     "dailyMinutesDown": {
+      "2022-07-19": 1,
       "2022-04-25": 204
     }
   },
@@ -78,10 +85,10 @@
     "url": "https://minio.ccm.sickkids.ca/minio/health/live",
     "icon": "https://favicons.githubusercontent.com/minio.ccm.sickkids.ca",
     "slug": "min-io-primary",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 263,
@@ -90,6 +97,7 @@
     "timeMonth": 264,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2022-07-19": 1,
       "2022-05-29": 464
     }
   },
@@ -135,11 +143,11 @@
     "icon": "https://favicons.githubusercontent.com/stager.ccm.sickkids.ca",
     "slug": "stager-frontend",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 267,
     "timeDay": 388,
     "timeWeek": 298,
