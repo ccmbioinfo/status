@@ -4,11 +4,11 @@
     "url": "https://ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ccm.sickkids.ca.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 511,
     "timeDay": 565,
@@ -16,6 +16,7 @@
     "timeMonth": 455,
     "timeYear": 511,
     "dailyMinutesDown": {
+      "2022-10-11": 4,
       "2022-07-26": 27,
       "2022-07-19": 15
     }
@@ -25,11 +26,11 @@
     "url": "https://epigen.ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/epigen.ccm.sickkids.ca.ico",
     "slug": "epigen-central",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 309,
     "timeDay": 360,
@@ -37,6 +38,7 @@
     "timeMonth": 287,
     "timeYear": 309,
     "dailyMinutesDown": {
+      "2022-10-11": 3,
       "2022-08-02": 13,
       "2022-07-26": 27,
       "2022-07-19": 15
@@ -47,18 +49,19 @@
     "url": "https://jira.ccm.sickkids.ca/status",
     "icon": "https://icons.duckduckgo.com/ip3/jira.ccm.sickkids.ca.ico",
     "slug": "jira",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 256,
     "timeDay": 317,
     "timeWeek": 209,
     "timeMonth": 242,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2022-10-11": 3,
       "2022-07-26": 26,
       "2022-07-19": 14
     }
@@ -68,11 +71,11 @@
     "url": "https://sso.ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/sso.ccm.sickkids.ca.ico",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
     "time": 336,
     "timeDay": 382,
@@ -80,6 +83,7 @@
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2022-10-11": 2,
       "2022-07-19": 14,
       "2022-04-25": 204
     }
@@ -89,18 +93,19 @@
     "url": "https://minio.ccm.sickkids.ca/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/minio.ccm.sickkids.ca.ico",
     "slug": "min-io-primary",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 238,
     "timeDay": 186,
     "timeWeek": 159,
     "timeMonth": 187,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2022-10-11": 2,
       "2022-07-19": 13,
       "2022-05-29": 464
     }
@@ -110,10 +115,10 @@
     "url": "https://minio-hiraki.ccm.sickkids.ca/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/minio-hiraki.ccm.sickkids.ca.ico",
     "slug": "min-io-hiraki-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
@@ -121,17 +126,19 @@
     "timeWeek": 177,
     "timeMonth": 219,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-11": 1
+    }
   },
   {
     "name": "MinIO (Muise lab)",
     "url": "https://minio-muise.ccm.sickkids.ca/minio/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/minio-muise.ccm.sickkids.ca.ico",
     "slug": "min-io-muise-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
@@ -139,16 +146,18 @@
     "timeWeek": 176,
     "timeMonth": 209,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-11": 1
+    }
   },
   {
     "name": "Stager (frontend)",
     "url": "https://stager.ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/stager.ccm.sickkids.ca.ico",
     "slug": "stager-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -158,6 +167,7 @@
     "timeMonth": 211,
     "timeYear": 244,
     "dailyMinutesDown": {
+      "2022-10-11": 0,
       "2022-05-29": 464
     }
   },
