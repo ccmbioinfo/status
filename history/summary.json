@@ -140,18 +140,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mrspec.ccm.sickkids.ca.ico",
     "slug": "mr-spec-portal",
     "status": "down",
-    "uptime": "96.75%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "96.75%",
+    "uptime": "94.97%",
+    "uptimeDay": "69.44%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "94.97%",
+    "uptimeYear": "94.97%",
     "time": 236,
     "timeDay": 184,
     "timeWeek": 204,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-04-18": 0,
+      "2023-04-18": 396,
       "2023-04-17": 44,
       "2023-04-08": 379,
       "2023-04-07": 263
@@ -162,9 +162,9 @@
     "url": "https://seqr.ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/seqr.ccm.sickkids.ca.ico",
     "slug": "seqr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,7 +173,9 @@
     "timeWeek": 207,
     "timeMonth": 284,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   },
   {
     "name": "Stager (frontend)",
