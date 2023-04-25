@@ -12,8 +12,6 @@ sites:
     url: https://minio.ccm.sickkids.ca/minio/health/live
   - name: MinIO (Hiraki lab)
     url: https://minio-hiraki.ccm.sickkids.ca/minio/health/live
-  - name: MinIO (Muise lab)
-    url: https://minio-muise.ccm.sickkids.ca/minio/health/live
   - name: MRSpec Portal
     url: https://mrspec.ccm.sickkids.ca
   - name: Seqr
