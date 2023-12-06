@@ -1,7 +1,7 @@
 url: https://minio.ccm.sickkids.ca/minio/health/live
 status: up
 code: 200
-responseTime: 129
-lastUpdated: 2023-12-05T23:15:07.998Z
+responseTime: 163
+lastUpdated: 2023-12-06T23:15:20.467Z
 startTime: 2022-04-04T20:55:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
