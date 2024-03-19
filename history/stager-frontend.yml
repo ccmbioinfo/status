@@ -1,7 +1,7 @@
 url: https://stager.ccm.sickkids.ca
-status: down
-code: 504
-responseTime: 17560
-lastUpdated: 2024-03-19T06:24:42.235Z
+status: up
+code: 200
+responseTime: 138
+lastUpdated: 2024-03-19T10:15:42.906Z
 startTime: 2022-04-04T20:55:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
