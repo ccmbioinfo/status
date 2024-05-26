@@ -60,7 +60,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.ccm.sickkids.ca.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "48.81%",
+    "uptime": "48.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -71,7 +71,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-26": 40,
+      "2024-05-26": 697,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -487,18 +487,19 @@
     "url": "https://mrspec.ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/mrspec.ccm.sickkids.ca.ico",
     "slug": "mr-spec-portal",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.10%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 380,
     "timeDay": 345,
     "timeWeek": 338,
     "timeMonth": 233,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2024-05-26": 0,
       "2024-05-24": 44,
       "2024-05-20": 21,
       "2024-05-19": 24,
@@ -571,8 +572,7 @@
       "2023-10-28": 25,
       "2023-10-24": 24,
       "2023-10-19": 58,
-      "2023-10-15": 24,
-      "2023-10-12": 34
+      "2023-10-15": 24
     }
   },
   {
