@@ -1,7 +1,7 @@
 url: https://mrspec.ccm.sickkids.ca
-status: up
-code: 200
-responseTime: 87
-lastUpdated: 2024-05-28T23:17:52.271Z
+status: down
+code: 500
+responseTime: 1125
+lastUpdated: 2024-05-29T10:26:04.552Z
 startTime: 2023-04-03T18:16:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
