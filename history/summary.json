@@ -69,7 +69,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 1154,
+      "2024-08-02": 1288,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -490,16 +490,16 @@
     "url": "https://mrspec.ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/mrspec.ccm.sickkids.ca.ico",
     "slug": "mr-spec-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "90.50%",
-    "uptimeWeek": "94.11%",
+    "uptimeDay": "90.48%",
+    "uptimeWeek": "94.35%",
     "uptimeMonth": "96.68%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 402,
-    "timeDay": 188,
-    "timeWeek": 215,
-    "timeMonth": 460,
+    "timeDay": 213,
+    "timeWeek": 224,
+    "timeMonth": 461,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2024-08-02": 113,
@@ -557,8 +557,7 @@
       "2024-04-23": 19,
       "2024-04-18": 55,
       "2024-04-16": 48,
-      "2024-04-15": 51,
-      "2024-04-13": 35
+      "2024-04-15": 51
     }
   },
   {
