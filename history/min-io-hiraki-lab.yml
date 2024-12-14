@@ -1,7 +1,7 @@
 url: https://minio-hiraki.ccm.sickkids.ca/minio/health/live
 status: up
 code: 200
-responseTime: 203
-lastUpdated: 2024-12-13T23:19:15.659Z
+responseTime: 105
+lastUpdated: 2024-12-14T23:18:23.714Z
 startTime: 2022-04-04T20:55:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
