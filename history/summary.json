@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 550,
-    "timeDay": 457,
-    "timeWeek": 515,
-    "timeMonth": 565,
+    "timeDay": 320,
+    "timeWeek": 490,
+    "timeMonth": 560,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2024-09-08": 111,
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 287,
-    "timeDay": 181,
-    "timeWeek": 234,
-    "timeMonth": 261,
-    "timeYear": 296,
+    "timeDay": 134,
+    "timeWeek": 235,
+    "timeMonth": 259,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2024-10-08": 52,
       "2024-09-17": 60,
@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.ccm.sickkids.ca.ico",
     "slug": "keycloak",
     "status": "down",
-    "uptime": "37.87%",
+    "uptime": "37.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 47,
+      "2025-01-08": 47,
+      "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -437,8 +438,7 @@
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
-      "2024-01-10": 1440,
-      "2024-01-09": 1440
+      "2024-01-10": 1440
     }
   },
   {
@@ -453,9 +453,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
     "time": 213,
-    "timeDay": 189,
-    "timeWeek": 199,
-    "timeMonth": 219,
+    "timeDay": 102,
+    "timeWeek": 197,
+    "timeMonth": 216,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2024-10-17": 19,
@@ -481,9 +481,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 214,
-    "timeDay": 195,
-    "timeWeek": 210,
-    "timeMonth": 214,
+    "timeDay": 109,
+    "timeWeek": 212,
+    "timeMonth": 212,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2024-11-19": 18,
@@ -503,15 +503,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/seqr.ccm.sickkids.ca.ico",
     "slug": "seqr",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
     "time": 240,
-    "timeDay": 137,
+    "timeDay": 113,
     "timeWeek": 215,
-    "timeMonth": 219,
+    "timeMonth": 218,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2024-10-15": 15,
@@ -525,8 +525,7 @@
       "2024-06-19": 1297,
       "2024-03-09": 143,
       "2024-03-08": 86,
-      "2024-02-16": 69,
-      "2024-01-09": 62
+      "2024-02-16": 69
     }
   },
   {
@@ -541,9 +540,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.43%",
     "time": 569,
-    "timeDay": 133,
+    "timeDay": 124,
     "timeWeek": 207,
-    "timeMonth": 235,
+    "timeMonth": 234,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2024-10-17": 19,
@@ -575,9 +574,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 269,
-    "timeDay": 200,
+    "timeDay": 133,
     "timeWeek": 267,
-    "timeMonth": 274,
+    "timeMonth": 273,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2024-09-09": 29,
