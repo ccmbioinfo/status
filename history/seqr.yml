@@ -1,7 +1,7 @@
 url: https://seqr.ccm.sickkids.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-04T14:51:44.422Z
+status: up
+code: 200
+responseTime: 165
+lastUpdated: 2025-07-04T16:14:21.253Z
 startTime: 2023-04-03T18:16:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
