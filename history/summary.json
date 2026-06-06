@@ -4,16 +4,16 @@
     "url": "https://ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ccm.sickkids.ca.ico",
     "slug": "main-site",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "99.86%",
-    "time": 586,
-    "timeDay": 316,
-    "timeWeek": 878,
-    "timeMonth": 537,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "74.80%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "99.80%",
+    "time": 585,
+    "timeDay": 311,
+    "timeWeek": 807,
+    "timeMonth": 530,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2025-09-16": 36,
@@ -21,7 +21,7 @@
       "2025-11-06": 70,
       "2026-03-16": 78,
       "2026-05-28": 460,
-      "2026-06-06": 30
+      "2026-06-06": 363
     }
   },
   {
@@ -30,18 +30,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/epigen.ccm.sickkids.ca.ico",
     "slug": "epigen-central",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "91.73%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.63%",
+    "uptimeDay": "67.17%",
+    "uptimeWeek": "95.31%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.91%",
     "time": 294,
     "timeDay": 179,
     "timeWeek": 329,
     "timeMonth": 294,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2026-06-06": 119
+      "2026-06-06": 473
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 977,
+      "2026-06-06": 1331,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -434,18 +434,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.ccm.sickkids.ca.ico",
     "slug": "min-io-primary",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.45%",
+    "uptimeDay": "67.53%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.91%",
     "time": 234,
     "timeDay": 153,
     "timeWeek": 221,
     "timeMonth": 213,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-06-06": 114
+      "2026-06-06": 468
     }
   },
   {
@@ -454,18 +454,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio-hiraki.ccm.sickkids.ca.ico",
     "slug": "min-io-hiraki-lab",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.74%",
+    "uptimeDay": "67.86%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.91%",
     "time": 234,
     "timeDay": 137,
     "timeWeek": 195,
     "timeMonth": 216,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-06-06": 109
+      "2026-06-06": 463
     }
   },
   {
@@ -474,11 +474,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seqr.ccm.sickkids.ca.ico",
     "slug": "seqr",
     "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "23.43%",
-    "uptimeWeek": "89.06%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "98.66%",
+    "uptime": "98.89%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.55%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "98.59%",
     "time": 247,
     "timeDay": 0,
     "timeWeek": 229,
@@ -495,7 +495,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 381,
       "2025-10-03": 17,
-      "2026-06-06": 977,
+      "2026-06-06": 1331,
       "2026-06-05": 125
     }
   },
@@ -505,11 +505,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stager.ccm.sickkids.ca.ico",
     "slug": "stager-frontend",
     "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "92.78%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.90%",
+    "uptime": "98.80%",
+    "uptimeDay": "68.22%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "99.84%",
     "time": 451,
     "timeDay": 1700,
     "timeWeek": 601,
@@ -517,7 +517,7 @@
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-08-09": 398,
-      "2026-06-06": 104
+      "2026-06-06": 458
     }
   },
   {
@@ -525,19 +525,19 @@
     "url": "https://stager-hiraki.ccm.sickkids.ca/api",
     "icon": "https://icons.duckduckgo.com/ip3/stager-hiraki.ccm.sickkids.ca.ico",
     "slug": "stager-hiraki-backend",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "75.44%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.93%",
     "time": 312,
-    "timeDay": 181,
-    "timeWeek": 327,
-    "timeMonth": 306,
+    "timeDay": 213,
+    "timeWeek": 317,
+    "timeMonth": 304,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2026-06-06": 0
+      "2026-06-06": 354
     }
   }
 ]
