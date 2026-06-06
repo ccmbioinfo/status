@@ -4,12 +4,12 @@
     "url": "https://ccm.sickkids.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ccm.sickkids.ca.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "99.86%",
     "time": 586,
     "timeDay": 316,
     "timeWeek": 878,
@@ -20,7 +20,8 @@
       "2025-09-22": 59,
       "2025-11-06": 70,
       "2026-03-16": 78,
-      "2026-05-28": 460
+      "2026-05-28": 460,
+      "2026-06-06": 30
     }
   },
   {
@@ -30,17 +31,17 @@
     "slug": "epigen-central",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.98%",
     "time": 294,
     "timeDay": 179,
     "timeWeek": 329,
     "timeMonth": 294,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2026-06-06": 15
+      "2026-06-06": 119
     }
   },
   {
@@ -60,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 873,
+      "2026-06-06": 977,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -433,18 +434,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.ccm.sickkids.ca.ico",
     "slug": "min-io-primary",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.46%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
     "time": 234,
     "timeDay": 153,
     "timeWeek": 221,
     "timeMonth": 213,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-06-06": 10
+      "2026-06-06": 114
     }
   },
   {
@@ -454,17 +455,17 @@
     "slug": "min-io-hiraki-lab",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "92.42%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.98%",
     "time": 234,
     "timeDay": 137,
     "timeWeek": 195,
     "timeMonth": 216,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-06-06": 5
+      "2026-06-06": 109
     }
   },
   {
@@ -473,11 +474,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seqr.ccm.sickkids.ca.ico",
     "slug": "seqr",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "30.63%",
-    "uptimeWeek": "90.09%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "98.68%",
+    "uptime": "98.91%",
+    "uptimeDay": "23.43%",
+    "uptimeWeek": "89.06%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "98.66%",
     "time": 247,
     "timeDay": 0,
     "timeWeek": 229,
@@ -494,7 +495,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 381,
       "2025-10-03": 17,
-      "2026-06-06": 874,
+      "2026-06-06": 977,
       "2026-06-05": 125
     }
   },
@@ -505,10 +506,10 @@
     "slug": "stager-frontend",
     "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.90%",
     "time": 451,
     "timeDay": 1700,
     "timeWeek": 601,
@@ -516,7 +517,7 @@
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-08-09": 398,
-      "2026-06-06": 0
+      "2026-06-06": 104
     }
   },
   {
@@ -524,9 +525,9 @@
     "url": "https://stager-hiraki.ccm.sickkids.ca/api",
     "icon": "https://icons.duckduckgo.com/ip3/stager-hiraki.ccm.sickkids.ca.ico",
     "slug": "stager-hiraki-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -535,6 +536,8 @@
     "timeWeek": 327,
     "timeMonth": 306,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-06": 0
+    }
   }
 ]
